@@ -5,7 +5,7 @@ deployments over on-premise Linux infrastructure, private and public cloud provi
 and experience in all aspects of Software Development, including designing, documenting, coding, maintaining,
 monitoring, debugging, and troubleshooting.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bobycloud&show_icons=true&theme=dark"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=bobycloud&show_icons=true&theme=jolly"/> 
 
 ### Social Networks
 
