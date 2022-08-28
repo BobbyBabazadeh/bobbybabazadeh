@@ -1,6 +1,6 @@
 # About me
 
-Skilled Backend Engineer with over 6 years of experience in supporting, automating, and optimizing mission-critical
+Skilled Backend Engineer and experienced in supporting, automating, and optimizing mission-critical
 deployments over on-premise Linux infrastructure, private and public cloud providers, CI/CD, DevOps processes,
 and experience in all aspects of Software Development, including designing, documenting, coding, maintaining,
 monitoring, debugging, and troubleshooting.
